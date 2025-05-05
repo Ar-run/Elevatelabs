@@ -4,3 +4,4 @@ Handled missing values using Mean and Median imputation techniques
 Encoded categorical data using Label encoding and One Hot encoding
 Normalized and Standardised the numerical values using Minmaxscaler and Standardscaler
 Visualised outliers using boxplot and removed them
+end
